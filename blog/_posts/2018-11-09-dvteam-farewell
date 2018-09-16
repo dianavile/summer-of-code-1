@@ -41,18 +41,18 @@ From the beginning, we tried to stay organized and clearly communicate our goals
 ## Daily log
 Once the project started, we made a daily log with what we did that day. 
 
-Each day we had at least one sit-down where we’d ask about each other’s progress and maybe even teach each other what we learned or how to build something. 
+Each week we had at least one sit-down where we’d ask about each other’s progress and maybe even teach each other what we learned or how to build something. 
 
-After three months of research, tutorials, building and deploying, we finally built the minimum viable product of our project. The last month, we refactored, tested and added new features to each component.
+After three months of research, tutorials, building and deploying, we finally built the minimum viable product of our project. The last month, we kep working on existing issues, refactoring existing code, testing and adding new features to each component.
 
 ## Lessons and Challenges: Things we learned along the way
-One of the best and worst parts of our project is that we were given freedom to build using whatever stack we wanted. It was very freeing and made us feel like our mentor really trusted us with making the right decision.
+One of the best and worst parts of our project is that we were given complete freedom to build using whatever stack we wanted. It was very freeing and made us feel like our mentor really trusted us with making the right decision.
 
 However, as newbie developers sometimes we would spend days or even weeks researching different technologies, not knowing if we could overcome the steep learning curve. It was a challenge itself to know when to ask questions and ask for help, to manage frustration and to know when to stop and get proper rest.
 
 The best parts of the experience were the small victories, the aha moments, sharing the journey with really caring people, admiring Nico’s work and hoping we can be at that level some day. 
 
-Spending three months, peppered with lots of success and failure, we loved every minute of it! Which is the best lesson of all from working on the RGSoC project this summer.
+Spending three months, peppered with lots of small successes and failures, we learned bit by bit every minute of it! Which is the best lesson of all from working on the RGSoC project this summer.
 
 
 ## What RGSoC taught us
@@ -60,11 +60,11 @@ Besides contributing to open-source, we learned new tools and technologies and i
 
 *We learned...*
 
-*…* it is really hard to predict and allocate time for building a new page or feature - because a lot can go wrong, and can totally derail the project. 
+*…* it is really hard to predict and allocate time for building a new page or feature - a lot can go wrong, and this can totally derail the project. 
 
 *…* good communication is a huge part of a developer’s job and keeping everyone posted about our progress made a huge difference on our contributions and the team’s spirit.
 
-*…* how to work with code that doesn’t have an immediate visual result, as we have been working before with websites and games and never with a so complex project. 
+*…* how to work with code that doesn’t have an immediate visual result, as we have been working before with websites and games and never with such a complex and advanced project. 
 
 *…* a lot about unit testing and the different frameworks and assertion libraries.
 
@@ -84,10 +84,10 @@ Besides contributing to open-source, we learned new tools and technologies and i
 
 *…* the importance of paying attention to detail, syntax and style
 
-*…* how amazing and helpful the dev community can be! 
+*…* how amazing and helpful the dev community is! 
 
 ## Achievements
-We learned a lot during summer. Among others how to spent hours working on the same problem, freaked out, miscommunicated, lost our code, worked with complete opposite work schedules, were stuck, tried pair coding, coded alone, changed mentors, shifted projects, went to an incredible JavaScript conference, met awesome people, learned the open-source world, faced our fears and doubts and just kept going. Step-by-step. And our hard work paid off, we are celebrating with a few milestones:
+We learned a lot during summer. Among others how to spent hours working on the same problem, freak out and relax our nerves, miscommunication in an entire online communication environment, how to lose our code and how to recover it, working with tight schedules and complete opposite work schedules, being stuck and get unstuck again, switch between pair coding and coding alone, changing mentors, shifting projects, attending an incredible JavaScript conference, meeting awesome people, learning the open-source world, facing our fears and doubts and just kept going. Step-by-step. And our hard work paid off, we are celebrating with a few milestones:
 
 - The PIMD-project was released as an npm package. 
 - We created a PIMD Live Demo and documentation file. 
@@ -95,6 +95,10 @@ We learned a lot during summer. Among others how to spent hours working on the s
 
 ## Thanks
 We would not be able to thank RGSoC enough for all we learned through this summer. A big big thanks to [RGSoC](https://railsgirlssummerofcode.org/) and all the Sponsors for giving us this opportunity and the organizors for their constant support. 
+
+This Rails Girls Summer of Code gave us the opportunity to find out how it is to work as a Front-End Developer in a real life-time setting. This itself, is an extremely valuable experience. 
+
+Coding is not easy, but if you are determined, dear to ask for help and never give up, it is absolutely a live changing experience. 
 
 And of course, this summer would not have been so amazing without...
 
@@ -105,6 +109,7 @@ And of course, this summer would not have been so amazing without...
 **Our Supervisors**: [**Lucas Pinto**](https://twitter.com/medk_) you had a big impact on our summer of code, thank you for caring for our well-being throughout the summer and always being there for questions, support and for sharing your own experiences. [**Srishti**](https://github.com/SrishtiSengupta) thank you for taking over when Lucas went on holidays and for continuing supporting us.
 
 **RGSoC-Community**: Thank you for being so responsive and helpful. We loved to meet you all and have the opportunity of sharing our journey with so many amazing people. 
+
 
 ## The Journey Continues...
 We will for sure continue to code. And are planning to find a job in tech in Barcelona by the beginning of 2019. We want to finish our Front-End Nanodegree, learn React and build up our portfolio with projects built the past months. We also want to learn more about some of the technologies, frameworks and tools we discovered during our journey with Living Style Guide.
@@ -130,5 +135,3 @@ We don’t know yet what the future holds for us but we have some idea of where 
 [Living Style Guide Github](https://www.github.com/livingstyleguide)
 
 [RGSoC daily logs](http://teams.railsgirlssummerofcode.org): a history of every team hard work during the summer
-
-
