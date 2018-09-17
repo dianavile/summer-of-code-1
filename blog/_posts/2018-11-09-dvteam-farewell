@@ -14,6 +14,8 @@ categories: student-posts
 ## What an incredible experience! 
 While most of people went on summer holidays to unwind, we decided to do the opposite. Working throughout summer, combining our full time job with a part-time Summer of Code experience. After an intensive three months of 60+ hours work, it’s hard to believe this Rails Girls Summer of Code experience is coming to an end. Read what the DV Team learned during this coding summer.
 
+![DV Team RgSoc Farewell](https://drive.google.com/drive/u/1/folders/1QbIjSkdlQtfQW0M894JVYOWXs_HVz9zX?ogsrc=32/img.jpg?raw=true")
+
 ## Living Style Guide - PIMD 
 [Living Style Guide](http://www.livingstyleguide.org) is the Open Source project we have been selected for. It helps developers to create front-end style guides easily with SaSS and Markdown. The project is created by [Nico Hagenburger](http://www.twitter.com/hagenburger) (designer and software programmer) with the help of [Jen Geacone-Cruz](https://twitter.com/anomiseditrix) (Content Director). Our main tasks were linked to the porting of the project from Ruby to JavaScript: to refactor and enhace code, implement plugins, test code in Vanilla Javascript and improving the documentation.
 
